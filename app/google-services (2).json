@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1027866392134",
+    "project_id": "profileclone-704a1",
+    "storage_bucket": "profileclone-704a1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027866392134:android:ca4c9f4dbe74fc5cf37c47",
+        "android_client_info": {
+          "package_name": "com.example.profileclone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2QuZKZMTBSGz8iNZkE-W504cb7Ev_0Uo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

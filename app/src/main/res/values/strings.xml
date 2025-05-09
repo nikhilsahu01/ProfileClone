@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">ProfileClone</string>
+    <string name="nikhil_sahu">Nikhil Sahu</string>
+    <string name="member_since_may_2025">Member Since May, 2025</string>
+    <string name="credit_score">Credit Score</string>
+    <string name="_809">809</string>
+    <string name="_9">₹9</string>
+    <string name="cashback">Cashback</string>
+    <string name="_45_09_433">45,09,433</string>
+    <string name="coin">Coin</string>
+    <string name="check">check</string>
+    <string name="bank_balance">Bank Balance</string>
+    <string name="your_reward_and_benifits">YOUR REWARD AND BENIFITS</string>
+    <string name="cashback_balance">CashBack Balance</string>
+    <string name="_0">₹0</string>
+    <string name="coins">Coins</string>
+    <string name="win_upto_1000">Win Upto 1000</string>
+    <string name="refer_a_friend">Refer a friend</string>
+    <string name="transaction_and_support">TRANSACTION AND SUPPORT</string>
+    <string name="all_transactions">All Transactions</string>
+    <string name="show">Show</string>
+    <string name="payment_history">Payment History</string>
+    <string name="click">Click</string>
+    <string name="report_an_issue">Report an Issue</string>
+    <string name="contact_support">Contact Support</string>
+    <string name="support_help_center">Support / Help Center</string>
+    <string name="_10_476">₹ 10,476</string>
+    <string name="no_payment_history_found">No payment History Found</string>
+    <string name="enter_your_report_here">Enter your Report Here</string>
+    <string name="submit">submit</string>
+    <string name="email_nikhil_gmail_com">Email = nikhil@gmail.com</string>
+    <string name="mobile_9857473476">Mobile = 9857473476</string>
+    <string name="help_is_not_avalable">Help is not Avalable</string>
+</resources>
